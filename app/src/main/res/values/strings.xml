@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Animals</string>
+    <string name="action_night_mode_on">Включить темную тему</string>
+    <string name="action_night_mode_off">Выключить темную тему</string>
+    <string name="label">Животные</string>
+    <string name="get_random">Случайное животное</string>
+    <string name="animal_image_desc">Animal</string>
+</resources>
